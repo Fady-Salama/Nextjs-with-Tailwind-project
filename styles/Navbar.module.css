@@ -1,0 +1,16 @@
+.header{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.search{
+    position: relative;
+    margin-top: 24px;
+}
+.sp1{
+    margin-right: 50px;
+}
+.sp1,.sp2,.sp3{
+    color:white;
+}

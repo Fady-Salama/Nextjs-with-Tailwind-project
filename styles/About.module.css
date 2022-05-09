@@ -1,0 +1,36 @@
+.title{
+    color: rgb(38, 206, 150);
+}
+.text{
+    margin:80px;
+    margin-bottom:-30px;
+    text-align:center;
+  }
+  .text2{
+      text-align: center;
+      background-color: black;
+      margin-bottom:-90px;
+      height: 200px;
+      margin-top: 80px;
+      padding-top: 30px;
+      color: rgb(216, 204, 204);
+  }
+  .mtext{
+    line-height: 15px;
+  }
+  .inline{
+    background-color: black;
+    display:inline-flex;
+    margin: 80px;
+    margin-left:130px;
+    margin-bottom: -20px;
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+    color:white;
+  }
+  .mright{
+    margin:auto;
+    color: white;
+  }
+  
